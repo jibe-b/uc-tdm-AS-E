@@ -31,7 +31,7 @@ The relevant corpus has been fully pre-processed by AlvisNLP pipeline and indexe
 
 The FLAGdb++ application is a Java web application, available at http://tools.ips2.u-psud.fr/projects/FLAGdb++/HTML/ and that may be started by opening the following URL with a browser http://tools.ips2.u-psud.fr/projects/FLAGdb++/Appli/FLAGdb.jnlp.
 
-The application has been tested on Ubuntu (Linux).
+The application has been tested on Ubuntu (Linux). More details on installation is available in the FLAGdb++ documentation at http://tools.ips2.u-psud.fr/projects/FLAGdb++/HTML/guide.shtml.
 
 [[img-sunset]]
 // .FLAGDB++ start page//
